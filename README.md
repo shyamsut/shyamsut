@@ -1,9 +1,4 @@
-<!-- Profile Header Banner -->
 
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150" style="border-radius: 50%;" alt="Shyam Suthar" />
-</p>
 
 <!-- Animated Typing -->
 <h1 align="center">
