@@ -1,7 +1,5 @@
 <!-- Profile Header Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shyamsuthar/shyamsuthar/main/assets/devops-banner.gif" alt="DevOps Banner" width="100%" />
-</p>
+
 
 <!-- Profile Picture -->
 <p align="center">
