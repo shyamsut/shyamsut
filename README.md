@@ -1,116 +1,92 @@
-<!-- Header Banner -->
+<!-- Profile Header Banner -->
 <p align="center">
-  <img src="https://github.com/shyamsuthar/shyamsuthar/blob/main/assets/banner.gif" alt="Welcome Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/shyamsuthar/shyamsuthar/main/assets/devops-banner.gif" alt="DevOps Banner" width="100%" />
 </p>
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="150" height="150" style="border-radius:50%;" alt="Shyam Suthar" />
+  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150" style="border-radius: 50%;" alt="Shyam Suthar" />
 </p>
 
-<h1 align="center">Hey there, I'm <span style="color:#00BFFF">Shyam Suthar 👋</span></h1>
-
-<p align="center">
-  🚀 DevOps Engineer | AWS | Docker | Kubernetes | CI/CD | Terraform | Ansible <br/>
-  🎓 CSE Student @ JIET | 💼 Intern @ Abode Software | 💡 Lifelong Learner
-</p>
+<!-- Animated Typing -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Shyam+Suthar!;DevOps+Engineer+%7C+AWS+%7C+Docker+%7C+Kubernetes;20+LPA+Target+%F0%9F%92%B0+%7C+CI%2FCD+%7C+Cloud+Native+%7C+Automation" alt="Typing SVG" />
+</h1>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Enterprise DevOps Projects**  
-- 🌱 I’m learning **Advanced Kubernetes, Helm, GitHub Actions**  
-- ⚙️ I work mainly with **AWS, Docker, Git, Jenkins, Linux, CI/CD pipelines**  
-- 🧠 Passionate about **Automation, Scalability & Cloud Architecture**  
-- 🏆 DevOps Enthusiast aiming for **20+ LPA**  
-- 📬 Email: [shyamsuthar.dev@gmail.com](mailto:shyamsuthar.dev@gmail.com)  
-- 🌐 Portfolio: [shyamsuthar.in](https://shyamsuthar.in)  
-- 📝 Resume: [Download PDF](https://shyamsuthar.in/resume.pdf)
+- 🎓 **CSE Student @ JIET Jodhpur**
+- 🔧 Passionate about **Cloud, Automation & Infrastructure as Code**
+- 🧠 Learning: **Advanced Kubernetes, Helm, GitHub Actions**
+- 💌 Gmail: [shyam.22jics024@jietjodhpur.ac.in](mailto:shyam.22jics024@jietjodhpur.ac.in)
+
 
 ---
 
-## 🚀 Tech Stack
+## ⚙️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,jenkins,terraform,ansible,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,jenkins,terraform,ansible,bash,vscode,nginx" />
 </p>
 
 ---
 
-## 🧰 Tools I Use
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Terminal-Bash-black?style=for-the-badge&logo=gnubash" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-yellow?style=for-the-badge&logo=amazonaws" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamsuthar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shyamsuthar&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=shyamsuthar&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamsuthar&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamsuthar&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shyamsuthar&theme=darkhub&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shyamsuthar&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-| Project Name | Description | Tech Stack | Live Demo |
-|--------------|-------------|------------|-----------|
-| 🐳 **Dockerized Jenkins CI/CD** | CI/CD pipeline for Node.js app using Docker, Jenkins, GitHub | Docker, Jenkins, Git | [Visit](https://github.com/shyamsuthar/docker-ci-cd) |
-| ☁️ **AWS Lambda Aggregator** | Serverless data collector using Lambda & S3 | AWS Lambda, S3, Python | [Visit](https://github.com/shyamsuthar/aws-lambda-aggregator) |
-| ⚙️ **K8s Multi-node Deployment** | Kubernetes cluster with NGINX, ConfigMaps & Secrets | Kubernetes, YAML, Minikube | [Visit](https://github.com/shyamsuthar/k8s-nginx-deployment) |
+| Project | Tech Stack | Description | Link |
+|--------|------------|-------------|------|
+| 🐳 Dockerized Jenkins Pipeline | Docker, Jenkins, Git | Automated CI/CD Pipeline for Node.js | [Repo](https://github.com/shyamsuthar/docker-ci-cd) |
+| ☁ AWS Lambda Aggregator | AWS Lambda, Python, S3 | Serverless ETL using AWS Services | [Repo](https://github.com/shyamsuthar/aws-lambda-aggregator) |
+| 🔧 K8s Multi-node Cluster | K8s, YAML, NGINX | Full Deployment with ConfigMaps & Secrets | [Repo](https://github.com/shyamsuthar/k8s-nginx-deployment) |
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shyamsuthar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:shyam.22jics024@jietjodhpur.ac.in">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:shyamsuthar.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/shyam_suthar_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://github.com/shyamsuthar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
+ 
+  <a href="https://github.com/shyamsuthar">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧠 DevOps Motivation
+## 💡 Quote for the Day
 
-> “Automation is good, so long as you know exactly where to put the switch.” – Shyam Suthar
-
----
-
-## 📣 Let's Collaborate
-
-💬 I’m open to:
-- DevOps Freelance Projects  
-- Cloud Architecture Design  
-- CI/CD Consulting  
-- Remote Internships or Full-time Roles
+> “Push yourself, because no one else is going to do it for you.” – Shyam Suthar
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting+my+profile!;Follow+for+more+DevOps+content!&font=Fira+Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting+my+GitHub!;Follow+me+for+DevOps+Projects+%F0%9F%93%88&font=Fira+Code&center=true&width=450&height=45&color=00BFFF&vCenter=true&pause=1000" />
 </p>
+
+---
+
