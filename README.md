@@ -1,6 +1,5 @@
 <!-- Profile Header Banner -->
 
-
 <!-- Profile Picture -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150" style="border-radius: 50%;" alt="Shyam Suthar" />
@@ -16,6 +15,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 **CSE Student @ JIET Jodhpur**
+
 - 🔧 Passionate about **Cloud, Automation & Infrastructure as Code**
 - 🧠 Learning: **Advanced Kubernetes, Helm, GitHub Actions**
 - 💌 Gmail: [shyam.22jics024@jietjodhpur.ac.in](mailto:shyam.22jics024@jietjodhpur.ac.in)
@@ -68,7 +68,7 @@
   <a href="mailto:shyam.22jics024@jietjodhpur.ac.in">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- 
+  
   <a href="https://github.com/shyamsuthar">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
